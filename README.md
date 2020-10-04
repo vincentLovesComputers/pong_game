@@ -2,7 +2,7 @@
 
 Pong game face off between player and computer.
 
-##### Video on YouTube [youtube/Teli](https://youtu.be/b8s7aA7xXj8)
+##### Video on YouTube [youtube/pong](https://youtu.be/pmFOGbBPBe8)
 
 <img src="image/pongImg.PNG" height = 400>
 
