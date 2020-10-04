@@ -6,12 +6,6 @@ Pong game face off between player and computer.
 
 <img src="image/pongImg.PNG" height = 400>
 
-## Download apk, follow link:
-
-
-[Teli](https://github.com/vincentLovesComputers/builds/blob/main/teli.apk?raw=true)
-
-
 ### Clone from github
 
 Click clipboard under clone or download
