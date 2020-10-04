@@ -4,7 +4,7 @@ Pong game face off between player and computer.
 
 ##### Video on YouTube [youtube/Teli](https://youtu.be/b8s7aA7xXj8)
 
-<img src="images/pongImg.jpg" height = 400>
+<img src="images/pongImg.png" height = 400>
 
 ## Download apk, follow link:
 
